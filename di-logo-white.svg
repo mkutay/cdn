@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 2000 2000" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M900 1000C900 944.772 944.772 900 1000 900C1055.23 900 1100 944.772 1100 1000C1100 1055.23 1055.23 1100 1000 1100C944.772 1100 900 1055.23 900 1000Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M200 1000C200 944.772 244.772 900 300 900C355.228 900 400 944.772 400 1000C400 1055.23 355.228 1100 300 1100C244.772 1100 200 1055.23 200 1000Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1600 1000C1600 944.772 1644.77 900 1700 900C1755.23 900 1800 944.772 1800 1000C1800 1055.23 1755.23 1100 1700 1100C1644.77 1100 1600 1055.23 1600 1000Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M550 1706C550 1650.77 594.772 1606 650 1606C705.228 1606 750 1650.77 750 1706C750 1761.23 705.228 1806 650 1806C594.772 1806 550 1761.23 550 1706Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1250 1706C1250 1650.77 1294.77 1606 1350 1606C1405.23 1606 1450 1650.77 1450 1706C1450 1761.23 1405.23 1806 1350 1806C1294.77 1806 1250 1761.23 1250 1706Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M550 294C550 238.772 594.772 194 650 194C705.228 194 750 238.772 750 294C750 349.228 705.228 394 650 394C594.772 394 550 349.228 550 294Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1250 294C1250 238.772 1294.77 194 1350 194C1405.23 194 1450 238.772 1450 294C1450 349.228 1405.23 394 1350 394C1294.77 394 1250 349.228 1250 294Z" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M750 290.965L1253.65 291.036" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1097.59 1000.62L1601.24 1000.69" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M744.968 1713.16L1248.62 1713.23" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1047.29 915.282L1300.71 376.962" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M352.818 1084.94L596.853 1624.38" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<path d="M1660.39 1086.23L1397.92 1623.1" fill="none" opacity="1" stroke="#fffffe" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="10"/>
+<g opacity="1">
+<path d="M619.265 345.032L618.813 245.798L663.005 245.597C669.003 245.569 674.173 247.729 678.515 252.075C682.857 256.422 685.042 261.594 685.069 267.592L685.32 322.634C685.348 328.632 683.21 333.824 678.908 338.21C674.606 342.596 669.455 344.803 663.457 344.83L619.265 345.032ZM641.311 333.949L652.293 333.899C655.38 333.885 658 332.77 660.151 330.555C662.302 328.34 663.37 325.733 663.357 322.734L663.105 267.693C663.091 264.605 661.999 261.986 659.828 259.835C657.657 257.684 655.028 256.615 651.941 256.629L640.959 256.679L641.311 333.949Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M1339.03 333.137L1339.03 299.837C1327.9 298.503 1322.33 292.937 1322.33 283.137L1322.33 258.137L1339.03 258.137L1339.03 283.137C1339.03 285.403 1339.85 287.353 1341.48 288.987C1343.11 290.62 1345.06 291.437 1347.33 291.437C1349.66 291.437 1351.65 290.62 1353.28 288.987C1354.91 287.353 1355.73 285.403 1355.73 283.137L1355.73 258.137L1372.33 258.137L1372.33 283.137C1372.33 292.937 1366.8 298.503 1355.73 299.837L1355.73 333.137L1339.03 333.137Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M971.197 1042.8L971.197 967.796L975.097 967.796L1021.2 1009.5L1021.2 967.796L1029.6 967.796L1029.6 1042.8L1025.8 1042.8L979.597 1001.1L979.597 1042.8L971.197 1042.8Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M1676.1 1038.72L1676.1 980.418C1676.1 975.818 1677.75 971.884 1681.05 968.618C1684.35 965.351 1688.27 963.718 1692.8 963.718L1709.5 963.718C1714.03 963.718 1717.93 965.368 1721.2 968.668C1724.47 971.968 1726.1 975.884 1726.1 980.418L1726.1 1038.72L1709.5 1038.72L1709.5 1005.42L1692.8 1005.42L1692.8 1038.72L1676.1 1038.72ZM1692.8 997.018L1709.5 997.018L1709.5 980.418C1709.5 978.084 1708.68 976.101 1707.05 974.468C1705.42 972.834 1703.43 972.018 1701.1 972.018C1698.83 972.018 1696.88 972.834 1695.25 974.468C1693.62 976.101 1692.8 978.084 1692.8 980.418L1692.8 997.018Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M1309.92 1746.35L1309.92 1671.35L1313.82 1671.35L1349.42 1706.85L1384.92 1671.35L1393.32 1671.35L1393.32 1746.35L1376.62 1746.35L1376.62 1700.55L1347.42 1729.75L1318.32 1700.55L1318.32 1746.35L1309.92 1746.35Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M641.104 1748.42L641.104 1673.42L657.704 1673.42L657.704 1748.42L641.104 1748.42Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+<g opacity="1">
+<path d="M326.87 1025.22C326.204 1036.35 320.67 1041.92 310.27 1041.92L293.57 1041.92C289.037 1041.92 285.12 1040.28 281.82 1037.02C278.52 1033.75 276.87 1029.82 276.87 1025.22L276.87 983.617C276.87 979.084 278.487 975.167 281.72 971.867C284.954 968.567 288.904 966.917 293.57 966.917L310.27 966.917C320.737 966.917 326.27 972.484 326.87 983.617L318.57 983.617C317.904 978.017 315.137 975.217 310.27 975.217L301.87 975.217C299.604 975.217 297.654 976.034 296.02 977.667C294.387 979.3 293.57 981.284 293.57 983.617L293.57 1025.22C293.57 1027.48 294.387 1029.45 296.02 1031.12C297.654 1032.78 299.604 1033.62 301.87 1033.62L310.27 1033.62C315.204 1033.62 317.97 1030.82 318.57 1025.22L326.87 1025.22Z" fill="#fffffe" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</g>
+</svg>
