@@ -20,6 +20,9 @@ def rec(path):
         for file in files:
             if exceptions(file):
                 continue
+            if file[-3:] == "pdf":
+                ww += "[{file}](https://media.githubusercontent.com/media/MKutay/cdn/main/{path}/{file})  \n".format(path = path, file = file)
+                continue
             ww += "[{file}](./{file})  \n".format(file = file)
         for dir in dirs:
             if exceptions(dir):

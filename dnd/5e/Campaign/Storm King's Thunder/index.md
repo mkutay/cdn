@@ -1,6 +1,6 @@
 [DrippingCaves.png](./DrippingCaves.png)  
 [Nightstone.png](./Nightstone.png)  
 [SKT-PCStats.txt](./SKT-PCStats.txt)  
-[A_Guide_to_Storm_Kings_Thunder.pdf](./A_Guide_to_Storm_Kings_Thunder.pdf)  
-[Storm King's Thunder (1-10).pdf](./Storm King's Thunder (1-10).pdf)  
+[A_Guide_to_Storm_Kings_Thunder.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/Storm King's Thunder/A_Guide_to_Storm_Kings_Thunder.pdf)  
+[Storm King's Thunder (1-10).pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/Storm King's Thunder/Storm King's Thunder (1-10).pdf)  
 [Characters](./Characters/)  

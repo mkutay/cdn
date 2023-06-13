@@ -1,5 +1,5 @@
-[D&D Shop Catalog, V-1.8.pdf](./D&D Shop Catalog, V-1.8.pdf)  
-[[Subclass] Path of the Mildly Irritated (Latest).pdf](./[Subclass] Path of the Mildly Irritated (Latest).pdf)  
+[D&D Shop Catalog, V-1.8.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/D&D Shop Catalog, V-1.8.pdf)  
+[[Subclass] Path of the Mildly Irritated (Latest).pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/[Subclass] Path of the Mildly Irritated (Latest).pdf)  
 [The Story of Frank.odt](./The Story of Frank.odt)  
 [One Shots](./One Shots/)  
 [Books](./Books/)  
