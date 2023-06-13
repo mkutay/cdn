@@ -1,2 +1,2 @@
-[5e](./dnd/5e/index.md)
-[cheatsheet](./dnd/cheatsheet/index.md)
+[5e](./5e/)  
+[cheatsheet](./cheatsheet/)  

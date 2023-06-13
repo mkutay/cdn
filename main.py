@@ -20,11 +20,11 @@ def rec(path):
         for file in files:
             if exceptions(file):
                 continue
-            ww += "[{file}]({path}/{file})\n".format(file = file, path = path)
+            ww += "[{file}](./{file})  \n".format(file = file)
         for dir in dirs:
             if exceptions(dir):
                 continue
-            ww += "[{dir}]({path}/{dir}/index.md)\n".format(dir = dir, path = path)
+            ww += "[{dir}](./{dir}/)  \n".format(dir = dir)
             rec("{path}/{dir}".format(path = path, dir = dir))
         f.write(ww)
 

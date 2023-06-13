@@ -1,3 +1,3 @@
-[Tim.pdf](./dnd/5e/Charaters/Tim/Tim.pdf)
-[Campaign.txt](./dnd/5e/Charaters/Tim/Campaign.txt)
-[Spellbook.pdf](./dnd/5e/Charaters/Tim/Spellbook.pdf)
+[Tim.pdf](./Tim.pdf)  
+[Campaign.txt](./Campaign.txt)  
+[Spellbook.pdf](./Spellbook.pdf)  
