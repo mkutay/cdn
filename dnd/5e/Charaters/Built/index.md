@@ -1,0 +1,7 @@
+[Alton - Rogue.pdf](./dnd/5e/Charaters/Built/Alton - Rogue.pdf)
+[Barakas - Warlock.pdf](./dnd/5e/Charaters/Built/Barakas - Warlock.pdf)
+[Korrin - Spells.pdf](./dnd/5e/Charaters/Built/Korrin - Spells.pdf)
+[Rodan - Spells.pdf](./dnd/5e/Charaters/Built/Rodan - Spells.pdf)
+[Barakas - Spells.pdf](./dnd/5e/Charaters/Built/Barakas - Spells.pdf)
+[Darvin - Spells.pdf](./dnd/5e/Charaters/Built/Darvin - Spells.pdf)
+[Darvin - Bard.pdf](./dnd/5e/Charaters/Built/Darvin - Bard.pdf)

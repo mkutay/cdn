@@ -1,0 +1,7 @@
+[D&D 5E - UA - RevisedRanger.pdf](./dnd/5e/Books/UO/D&D 5E - UA - RevisedRanger.pdf)
+[D&D 5E - UA - Blood Hunter Class 1.2.pdf](./dnd/5e/Books/UO/D&D 5E - UA - Blood Hunter Class 1.2.pdf)
+[D&D 5E - UA-AberrantLurk.pdf](./dnd/5e/Books/UO/D&D 5E - UA-AberrantLurk.pdf)
+[D&D 5E - HB - School of Geometry.pdf](./dnd/5e/Books/UO/D&D 5E - HB - School of Geometry.pdf)
+[D&D 5E - UA-TwilightFireNames.pdf](./dnd/5e/Books/UO/D&D 5E - UA-TwilightFireNames.pdf)
+[D&D 5E - UA - Artificer.pdf](./dnd/5e/Books/UO/D&D 5E - UA - Artificer.pdf)
+[D&D 5E - UA - ArtificerV2.pdf](./dnd/5e/Books/UO/D&D 5E - UA - ArtificerV2.pdf)

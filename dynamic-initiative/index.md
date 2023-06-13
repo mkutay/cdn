@@ -1,0 +1,7 @@
+[DI-LOGO-beyaz.png](./dynamic-initiative/DI-LOGO-beyaz.png)
+[white-background-DI-logo.jpeg](./dynamic-initiative/white-background-DI-logo.jpeg)
+[white-logo-di.png](./dynamic-initiative/white-logo-di.png)
+[DI_LOGO.svg](./dynamic-initiative/DI_LOGO.svg)
+[di-logo-kırmızı.png](./dynamic-initiative/di-logo-kırmızı.png)
+[di-logo-pink.png](./dynamic-initiative/di-logo-pink.png)
+[di-logo-white.svg](./dynamic-initiative/di-logo-white.svg)
