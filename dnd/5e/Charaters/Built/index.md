@@ -1,0 +1,7 @@
+[Alton - Rogue.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Alton - Rogue.pdf)  
+[Barakas - Warlock.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Barakas - Warlock.pdf)  
+[Korrin - Spells.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Korrin - Spells.pdf)  
+[Rodan - Spells.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Rodan - Spells.pdf)  
+[Barakas - Spells.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Barakas - Spells.pdf)  
+[Darvin - Spells.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Darvin - Spells.pdf)  
+[Darvin - Bard.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Charaters/Built/Darvin - Bard.pdf)  
