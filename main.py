@@ -1,5 +1,6 @@
 from os import listdir
 from os.path import isfile, join
+import gh_md_to_html
 
 def exceptions(name):
     if name[0] == ".":
@@ -8,12 +9,14 @@ def exceptions(name):
         return True
     if name == "index.md":
         return True
+    if name == "github-markdown-css":
+        return True
     return False
 
 def rec(path):
     files = [f for f in listdir(path) if isfile(join(path, f))]
     dirs = [f for f in listdir(path) if not isfile(join(path, f))]
-    print(files, dirs)
+    # print(files, dirs)
 
     with open(path + "/index.md", "w") as f:
         ww = ""
@@ -29,6 +32,9 @@ def rec(path):
                 continue
             ww += "[{dir}](./{dir}/)  \n".format(dir = dir)
             rec("{path}/{dir}".format(path = path, dir = dir))
-        f.write(ww)
+        # f.write(ww)
+
+    print(path)
+    gh_md_to_html.main(path + "/index.md", math=True)
 
 rec(".")

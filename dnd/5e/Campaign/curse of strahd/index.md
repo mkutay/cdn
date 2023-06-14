@@ -1,4 +1,0 @@
-[Wizards RPG Team - Dungeons & Dragons_ Curse of Strahd-Wizards of the Coast (2016).pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/curse of strahd/Wizards RPG Team - Dungeons & Dragons_ Curse of Strahd-Wizards of the Coast (2016).pdf)  
-[Sean McGovern - A Guide to Curse of Strahd (2016).pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/curse of strahd/Sean McGovern - A Guide to Curse of Strahd (2016).pdf)  
-[Curse of Strahd Reloaded v2.0.1.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/curse of strahd/Curse of Strahd Reloaded v2.0.1.pdf)  
-[ferret's guide to the svalich woods.pdf](https://media.githubusercontent.com/media/MKutay/cdn/main/./dnd/5e/Campaign/curse of strahd/ferret's guide to the svalich woods.pdf)  

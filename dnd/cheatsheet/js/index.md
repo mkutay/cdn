@@ -1,8 +1,0 @@
-[quickref.js](./quickref.js)  
-[data_reaction.js](./data_reaction.js)  
-[data_condition.js](./data_condition.js)  
-[data_movement.js](./data_movement.js)  
-[data_environment.js](./data_environment.js)  
-[data_bonusaction.js](./data_bonusaction.js)  
-[data_action.js](./data_action.js)  
-[jquery](./jquery/)  
