@@ -1,0 +1,7 @@
+[VengencePaladin.pdf](./VengencePaladin.pdf)  
+[WildSorcerer.pdf](./WildSorcerer.pdf)  
+[TempestCleric.pdf](./TempestCleric.pdf)  
+[ShadowSorcerer.pdf](./ShadowSorcerer.pdf)  
+[AncestralGuardianBarbarian.pdf](./AncestralGuardianBarbarian.pdf)  
+[OpenHandMonk.pdf](./OpenHandMonk.pdf)  
+[HunterRanger.pdf](./HunterRanger.pdf)  

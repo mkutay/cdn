@@ -26,14 +26,14 @@ def rec(path):
         if exceptions(file):
             continue
         if file[-3:] == "pdf":
-            ww += "[{file}](https://media.githubusercontent.com/media/MKutay/cdn/main/{path}/{file})  \n".format(path = path, file = file)
-            # ww += "[{file}](./{file})  \n".format(file = file)
+            # ww += "[{file}](https://media.githubusercontent.com/media/MKutay/cdn/main/{path}/{file})  \n".format(path = path, file = file)
+            ww += "[{file}](./{file})  \n".format(file = file)
             continue
         ww += "[{file}](./{file})  \n".format(file = file)
     for dir in dirs:
         if exceptions(dir):
             continue
-        ww += "[{dir}](./{dir})  \n".format(dir = dir)
+        ww += "[{dir}](./{dir}/index.md)  \n".format(dir = dir)
         rec("{path}/{dir}".format(path = path, dir = dir))
 
     with open(path + "/index.md", "w") as f:

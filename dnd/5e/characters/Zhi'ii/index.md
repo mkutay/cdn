@@ -1,0 +1,7 @@
+[D&D 5E - Player's Handbook.lnk](./D&D 5E - Player's Handbook.lnk)  
+[Archlich.pdf](./Archlich.pdf)  
+[D&D 5E - Elemental Evil Player's Companion - Shortcut.lnk](./D&D 5E - Elemental Evil Player's Companion - Shortcut.lnk)  
+[Zhi'ii - Spellbook.pdf](./Zhi'ii - Spellbook.pdf)  
+[DeeND Notes.txt](./DeeND Notes.txt)  
+[Zhi'ii Notes.txt](./Zhi'ii Notes.txt)  
+[Zhi'ii.pdf](./Zhi'ii.pdf)  

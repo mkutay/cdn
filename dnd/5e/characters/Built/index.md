@@ -1,0 +1,7 @@
+[Alton - Rogue.pdf](./Alton - Rogue.pdf)  
+[Barakas - Warlock.pdf](./Barakas - Warlock.pdf)  
+[Korrin - Spells.pdf](./Korrin - Spells.pdf)  
+[Rodan - Spells.pdf](./Rodan - Spells.pdf)  
+[Barakas - Spells.pdf](./Barakas - Spells.pdf)  
+[Darvin - Spells.pdf](./Darvin - Spells.pdf)  
+[Darvin - Bard.pdf](./Darvin - Bard.pdf)  
