@@ -10,6 +10,7 @@
 [acadamic-cap.svg](./acadamic-cap.svg)  
 [collection.svg](./collection.svg)  
 [pencil.svg](./pencil.svg)  
+[command.svg](./command.svg)  
 [desktop-computer.svg](./desktop-computer.svg)  
 [bookmark.svg](./bookmark.svg)  
 [shopping-cart.svg](./shopping-cart.svg)  
