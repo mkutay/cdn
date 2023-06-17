@@ -105,6 +105,7 @@
 [demon.jpg](./demon.jpg)  
 [anatomy-and-behaviour.jpg](./anatomy-and-behaviour.jpg)  
 [pastel-city.png](./pastel-city.png)  
+[nord-firewatch-high-res.png](./nord-firewatch-high-res.png)  
 [minim.jpg](./minim.jpg)  
 [nord-princess-zelda.jpg](./nord-princess-zelda.jpg)  
 [glitched-girl.jpg](./glitched-girl.jpg)  
